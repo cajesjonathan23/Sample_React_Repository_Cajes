@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_Cajes/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repository_Cajes/static/js/main.b6abfbdf.js",
+    "static/js/787.d3c641a2.chunk.js": "/Sample_React_Repository_Cajes/static/js/787.d3c641a2.chunk.js",
+    "static/media/new.jpg": "/Sample_React_Repository_Cajes/static/media/new.6d7bebd426129c27f9b7.jpg",
+    "static/media/1.jpg": "/Sample_React_Repository_Cajes/static/media/1.6d5ac994f4c7747a658a.jpg",
+    "static/media/3.jpg": "/Sample_React_Repository_Cajes/static/media/3.6b9fb462cc49f11e7e5c.jpg",
+    "static/media/2.jpg": "/Sample_React_Repository_Cajes/static/media/2.6c45741f81c3457f5556.jpg",
+    "static/media/5.jpg": "/Sample_React_Repository_Cajes/static/media/5.86594489387b67b824fb.jpg",
+    "static/media/4.jpg": "/Sample_React_Repository_Cajes/static/media/4.e785b0fdf845314992ce.jpg",
+    "index.html": "/Sample_React_Repository_Cajes/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repository_Cajes/static/css/main.88404e20.css.map",
+    "main.b6abfbdf.js.map": "/Sample_React_Repository_Cajes/static/js/main.b6abfbdf.js.map",
+    "787.d3c641a2.chunk.js.map": "/Sample_React_Repository_Cajes/static/js/787.d3c641a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.b6abfbdf.js"
+  ]
+}
